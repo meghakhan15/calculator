@@ -1,0 +1,28 @@
+.text-center{
+    text-align: center;
+    align-items: center;
+    color: rgb(12, 12, 25) ;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+  
+.input{
+  background-color: rgb(187, 218, 218);
+}
